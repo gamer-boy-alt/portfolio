@@ -3,12 +3,6 @@ import ProjectCard from "../components/ProjectCard";
 export default function Projects() {
   const projects = [
     {
-      title: "Portfolio Website",
-      description: "A responsive portfolio site built with React and TailwindCSS.",
-      link: "https://portfolio-pearl-pi-49.vercel.app/",
-      github: "https://github.com/gamer-boy-alt/portfolio",
-    },
-    {
       title: "First Practice Website",
       description: "The website I first built after learning tailwindcss",
       link: "https://my-tailwind-project-jjkm.onrender.com/",
@@ -19,6 +13,12 @@ export default function Projects() {
       description: "The second website I built after learning tailwindcss that is interactive because of javascript was used together with tailwindcss",
       link: "https://acme-rockets-51cs.onrender.com/",
       github: "https://github.com/gamer-boy-alt/my_website",
+    },
+    {
+      title: "Modern banking website",
+      description: "The third website that I built after learning react and tailwindcss was used toghether with it",
+      link: "https://hoobank-six-psi.vercel.app/#product",
+      github: "https://github.com/gamer-boy-alt/hoobank",
     },
   ];
 
