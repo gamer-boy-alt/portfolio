@@ -5,14 +5,20 @@ export default function Projects() {
     {
       title: "Portfolio Website",
       description: "A responsive portfolio site built with React and TailwindCSS.",
-      link: "#",
-      github: "#",
+      link: "https://portfolio-pearl-pi-49.vercel.app/",
+      github: "https://github.com/gamer-boy-alt/portfolio",
     },
     {
-      title: "Weather App",
-      description: "A weather forecast app using OpenWeather API and React.",
-      link: "#",
-      github: "#",
+      title: "First Practice Website",
+      description: "The website I first built after learning tailwindcss",
+      link: "https://my-tailwind-project-jjkm.onrender.com/",
+      github: "https://github.com/gamer-boy-alt/my-tailwind-project",
+    },
+    {
+      title: "Acme Rockets Website",
+      description: "The second website I built after learning tailwindcss that is interactive because of javascript was used together with tailwindcss",
+      link: "https://acme-rockets-51cs.onrender.com/",
+      github: "https://github.com/gamer-boy-alt/my_website",
     },
   ];
 
