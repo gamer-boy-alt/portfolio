@@ -16,7 +16,7 @@ export default function Projects() {
     },
     {
       title: "Modern banking website",
-      description: "The third website that I built after learning react and tailwindcss was used toghether with it",
+      description: "The third website that I built after learning react and was used together with tailwindcss",
       link: "https://hoobank-six-psi.vercel.app/#product",
       github: "https://github.com/gamer-boy-alt/hoobank",
     },
